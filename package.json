@@ -1,0 +1,14 @@
+{
+  "name": "@ilumin/prettier-config",
+  "version": "0.1.0",
+  "description": "@ilumin's Prettier Config",
+  "main": "index.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {},
+  "bugs": {},
+  "homepage": ""
+}
